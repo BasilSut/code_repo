@@ -7,6 +7,7 @@ using std::cin;
 
 namespace a{
     int data[8]={7,9,2,4,6,1,9,4};
+    int data2[8]={7,9,2,5,6,1,8,4};
 }
 
 using a::data;
