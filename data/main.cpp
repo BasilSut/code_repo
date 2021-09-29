@@ -3,6 +3,7 @@
 //using namespace std;
 using std::cout;
 using std::endl;
+using std::cin;
 
 namespace a{
     int data[8]={7,9,2,4,6,1,9,4};
@@ -14,7 +15,7 @@ int main()
 {
     char d ;
     cout<<"are you sure...(y/n)?";
-    std::cin>>d;
+    cin>>d;
     if (d=='y')
         cout<< "+++";
     else if(d=='n')
