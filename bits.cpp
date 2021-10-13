@@ -1,6 +1,6 @@
 #include <iostream>
 //using namespace std;
-namespace xy {
+namespace  {
     int x = 5;
 }
 
